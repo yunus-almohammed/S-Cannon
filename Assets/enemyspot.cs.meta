@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ec04d1288b03ec478e2d2c3940c348b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - diemenu: {fileID: 8933652667960879888, guid: 0f45023cf7090ba45a2af7603186c233, type: 3}
+  - me: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
